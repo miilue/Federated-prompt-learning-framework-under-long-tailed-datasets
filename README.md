@@ -1,4 +1,4 @@
-
+# A framework for federated prompt learning under long-tailed datasets
 
 <!-- # Don't Only Fine-Tune Majority: Federated Gradient-Balanced Prompt Learning for Long-Tailed Heterogeneous Data          This is an official implementation of the following paper: >Don't Only Fine-Tune Majority: Federated Gradient-Balanced Prompt Learning for Long-Tailed Heterogeneous Data -->
 
